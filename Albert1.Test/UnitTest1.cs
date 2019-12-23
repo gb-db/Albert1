@@ -13,7 +13,7 @@ namespace Albert1.Test
 
             //A2 Act
 
-            var c = false;
+            var c = true;
             //A3 Assert
             Assert.True(true == c, "That is it !");
         }
